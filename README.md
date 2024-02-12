@@ -32,3 +32,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=DhrumitPanchal&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
