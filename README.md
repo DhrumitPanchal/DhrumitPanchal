@@ -64,11 +64,7 @@
 </div>
 
 <hr>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="12" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumitPanchal&theme=nightowl&hide_border=false"/>
-  <img width="12" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
 
