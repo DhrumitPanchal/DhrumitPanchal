@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <hr>
 <h1 align="center">Hi 👋, I'm Dhrumit Panchal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate full-stack web developer from India</h3>
 <hr style="height:30">
 <img align="right" alt="Coding" width="280" src="https://github.com/DhrumitPanchal/DhrumitPanchal/assets/118439793/6d2c91bc-ddf2-449f-b431-8173c5e53b44">
 
