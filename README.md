@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumitpanchal&label=Profile%20views&color=0e75b6&style=flat" alt="dhrumitpanchal" /> </p>
 
-- 🌱 I’m currently working on **Byte forms**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.dhrumitpanchal.me/](https://www.dhrumitpanchal.me/)
 
