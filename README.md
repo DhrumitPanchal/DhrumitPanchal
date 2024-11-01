@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.dhrumitpanchal.me](www.dhrumitpanchal.me)
+- 👨‍💻 All of my projects are available at [www.dhrumitpanchal.me](https://www.dhrumitpanchal.me/)
 
 - 💬 Ask me about **web development**
 
