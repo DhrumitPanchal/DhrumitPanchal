@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.dhrumitpanchal.me](https://www.dhrumitpanchal.me/)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web & app development**
 
 - 📫 How to reach me **dhrumitpanchal789@gmail.com**
   
