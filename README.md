@@ -64,7 +64,7 @@
 </div>
 
 <hr>
-<h3>🏆 Github Trophys</h3>
+<h3>🏆 Github Trophys </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DhrumitPanchal&theme=tokyonight&no-frame=true)](https://github.com/DhrumitPancha/github-profile-trophy)
 
