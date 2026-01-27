@@ -66,13 +66,12 @@
 <hr>
 <h3>🏆 Github Trophys </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DhrumitPanchal&theme=tokyonight&no-frame=true)](https://github.com/DhrumitPancha/github-profile-trophy)
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=DhrumitPanchal&theme=tokyonight&column=11'>
 
 <hr>
 <h3>📊 GitHub Stats:</h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumitPanchal&theme=nightowl&hide_border=false"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumitPanchal&theme=nightowl&hide_border=false"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
