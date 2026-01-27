@@ -66,7 +66,7 @@
 <hr>
 <h3>🏆 Github Trophys </h3>
 
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=DhrumitPanchal&theme=tokyonight&column=11'>
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=DhrumitPanchal&theme=radical&column=11'>
 
 <hr>
 <h3>📊 GitHub Stats:</h3>
