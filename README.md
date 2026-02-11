@@ -71,12 +71,21 @@
 <hr>
 <h3>📊 GitHub Stats:</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumitPanchal&theme=nightowl&hide_border=false"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumitPanchal&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DhrumitPanchal&hide=contribs,prs&theme=aura)
+ <br/>
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=DhrumitPanchal&hide=contribs,prs&theme=aura)
+ <br/>
+ ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=DhrumitPanchal&hide=contribs,prs&theme=aura)
 
 
 <hr>
  <h3>💰 You can help me by Donating</h3>
  
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dhrumitpans)
+
+
+
+
+
+
+
